@@ -1,0 +1,13 @@
+{
+  "java.project.sourcePaths": [
+    "demo/src/main/java",
+    "demo/src/test/java"
+  ],
+  "java.project.referencedLibraries": [
+    "${userHome}/.m2/repository/**/*.jar"
+  ],
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "cSpell.words": [
+    "shopwave"
+  ]
+}
